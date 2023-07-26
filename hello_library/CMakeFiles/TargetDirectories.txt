@@ -1,0 +1,4 @@
+/Users/shihabuddin/Workspace/dartffi/hello_library/CMakeFiles/hello_library.dir
+/Users/shihabuddin/Workspace/dartffi/hello_library/CMakeFiles/hello_test.dir
+/Users/shihabuddin/Workspace/dartffi/hello_library/CMakeFiles/edit_cache.dir
+/Users/shihabuddin/Workspace/dartffi/hello_library/CMakeFiles/rebuild_cache.dir
